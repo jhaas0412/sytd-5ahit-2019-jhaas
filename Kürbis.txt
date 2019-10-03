@@ -1,0 +1,26 @@
+wir bekommen eine liste von werten
+GrowSimulator -->nicht dafür verantwortlich welche 3 letzten elemente in der liste er kriegt -->kohäsion erfüllen
+RecordList<T> extends ArrayList<T> -->da Kapseln wir das dann
+
+init()
+{
+recordlist erstellen --> inputData
+Arraylist erstellen -->grwothRateData
+}
+
+runSimulation()
+{
+analyseData
+}
+
+analyseData()
+{
+
+}
+
+
+IAnalyzer -->bekommt Liste von input daten und von dem Tag 
+und getDescrpition 
+
+AnalyzerFactory
+dort drinnen haben wir die dekoratoren
